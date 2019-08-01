@@ -1,0 +1,11 @@
+/Users/boyandonchev/Documents/Programming/C#/Snake/Snake/bin/Debug/netcoreapp2.2/Snake.deps.json
+/Users/boyandonchev/Documents/Programming/C#/Snake/Snake/bin/Debug/netcoreapp2.2/Snake.runtimeconfig.json
+/Users/boyandonchev/Documents/Programming/C#/Snake/Snake/bin/Debug/netcoreapp2.2/Snake.runtimeconfig.dev.json
+/Users/boyandonchev/Documents/Programming/C#/Snake/Snake/bin/Debug/netcoreapp2.2/Snake.dll
+/Users/boyandonchev/Documents/Programming/C#/Snake/Snake/bin/Debug/netcoreapp2.2/Snake.pdb
+/Users/boyandonchev/Documents/Programming/C#/Snake/Snake/obj/Debug/netcoreapp2.2/Snake.csprojAssemblyReference.cache
+/Users/boyandonchev/Documents/Programming/C#/Snake/Snake/obj/Debug/netcoreapp2.2/Snake.csproj.CoreCompileInputs.cache
+/Users/boyandonchev/Documents/Programming/C#/Snake/Snake/obj/Debug/netcoreapp2.2/Snake.AssemblyInfoInputs.cache
+/Users/boyandonchev/Documents/Programming/C#/Snake/Snake/obj/Debug/netcoreapp2.2/Snake.AssemblyInfo.cs
+/Users/boyandonchev/Documents/Programming/C#/Snake/Snake/obj/Debug/netcoreapp2.2/Snake.dll
+/Users/boyandonchev/Documents/Programming/C#/Snake/Snake/obj/Debug/netcoreapp2.2/Snake.pdb

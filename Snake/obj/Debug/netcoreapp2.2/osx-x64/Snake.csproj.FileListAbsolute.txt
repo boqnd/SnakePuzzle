@@ -1,0 +1,14 @@
+/Users/boyandonchev/Documents/Programming/C#/Snake/Snake/bin/Debug/netcoreapp2.2/osx-x64/libhostpolicy.dylib
+/Users/boyandonchev/Documents/Programming/C#/Snake/Snake/bin/Debug/netcoreapp2.2/osx-x64/libhostfxr.dylib
+/Users/boyandonchev/Documents/Programming/C#/Snake/Snake/bin/Debug/netcoreapp2.2/osx-x64/Snake
+/Users/boyandonchev/Documents/Programming/C#/Snake/Snake/bin/Debug/netcoreapp2.2/osx-x64/Snake.deps.json
+/Users/boyandonchev/Documents/Programming/C#/Snake/Snake/bin/Debug/netcoreapp2.2/osx-x64/Snake.runtimeconfig.json
+/Users/boyandonchev/Documents/Programming/C#/Snake/Snake/bin/Debug/netcoreapp2.2/osx-x64/Snake.runtimeconfig.dev.json
+/Users/boyandonchev/Documents/Programming/C#/Snake/Snake/bin/Debug/netcoreapp2.2/osx-x64/Snake.dll
+/Users/boyandonchev/Documents/Programming/C#/Snake/Snake/bin/Debug/netcoreapp2.2/osx-x64/Snake.pdb
+/Users/boyandonchev/Documents/Programming/C#/Snake/Snake/obj/Debug/netcoreapp2.2/osx-x64/Snake.csprojAssemblyReference.cache
+/Users/boyandonchev/Documents/Programming/C#/Snake/Snake/obj/Debug/netcoreapp2.2/osx-x64/Snake.csproj.CoreCompileInputs.cache
+/Users/boyandonchev/Documents/Programming/C#/Snake/Snake/obj/Debug/netcoreapp2.2/osx-x64/Snake.AssemblyInfoInputs.cache
+/Users/boyandonchev/Documents/Programming/C#/Snake/Snake/obj/Debug/netcoreapp2.2/osx-x64/Snake.AssemblyInfo.cs
+/Users/boyandonchev/Documents/Programming/C#/Snake/Snake/obj/Debug/netcoreapp2.2/osx-x64/Snake.dll
+/Users/boyandonchev/Documents/Programming/C#/Snake/Snake/obj/Debug/netcoreapp2.2/osx-x64/Snake.pdb
