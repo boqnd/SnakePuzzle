@@ -157,6 +157,9 @@
       </file>
     </leaf>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Snake/Controller/Service.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Snake/Model/Field.cs" root0="FORCE_HIGHLIGHTING" />
@@ -189,6 +192,7 @@
     <option name="width" value="1440" />
     <option name="height" value="997" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="SolutionExplorer" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -219,7 +223,7 @@
     <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
     <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/SnakeBuilds/SnakeWin" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Tetris" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
@@ -305,12 +309,12 @@
       <option name="presentableId" value="Default" />
       <updated>1564060627965</updated>
       <workItem from="1564060631614" duration="28405000" />
-      <workItem from="1564657576191" duration="407000" />
+      <workItem from="1564657576191" duration="550000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28812000" />
+    <option name="totallyTimeSpent" value="28955000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -323,9 +327,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="306" y="59" width="1440" height="997" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2532189" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2532189" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Capture Tool" order="3" />
@@ -344,7 +347,7 @@
       <window_info anchor="bottom" id="Unit Tests" order="11" />
       <window_info anchor="bottom" id="Terminal" order="12" />
       <window_info anchor="bottom" id="Event Log" order="13" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Build" order="14" visible="true" weight="0.63756907" />
+      <window_info anchor="bottom" id="Build" order="14" visible="true" weight="0.63756907" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
